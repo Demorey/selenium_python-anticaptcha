@@ -1,0 +1,8 @@
+venvSelenium
+cookies
+.env
+*.pyc
+.idea
+*.exe
+*.mp3
+*.wav
